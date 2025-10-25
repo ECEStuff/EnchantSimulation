@@ -1,0 +1,1 @@
+This is a crafting simulator that simulates chance-based crafting in ACE Online/AirRivals/Space Cowboy Online. The original crafting simulator for the official Ace Online server was created by Discord user thepolkameister (Discord ID: 299393499927674880).
